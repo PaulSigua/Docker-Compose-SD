@@ -10,7 +10,7 @@ Obtener las dos imagenes para el funcionamiento de los servidores wildfly y ngin
 
 **https://hub.docker.com/repository/docker/mateo2021/dockerfronted/general**
 
-# Repositorios del backend y frontend del proyecto
+# Repositorios del backend (ECLIPSE) y frontend (ventadas) del proyecto
 
 **https://github.com/PaulSigua/Docker-Compose-Backend.git**
 
